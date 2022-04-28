@@ -7,6 +7,10 @@
 [![coverage](https://coveralls.io/repos/github/bryanmylee/zoo-ids/badge.svg)](https://coveralls.io/github/bryanmylee/zoo-ids?branch=master)
 [![size](https://img.shields.io/bundlephobia/min/zoo-ids)](https://bundlephobia.com/result?p=zoo-ids)
 
+***
+This is a fork from [@bryanmylee/zoo-ids](https://github.com/bryanmylee/zoo-ids) with some adjectives removed.
+***
+
 Generate **predictable** and **unique** identifiers composed of adjectives and animal names, with the ability to seed the random identifiers.
 
 ## Range of IDs

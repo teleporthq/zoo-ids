@@ -1,5 +1,5 @@
 {
-	"name": "zoo-ids",
+	"name": "@teleporthq/zoo-ids",
 	"version": "2.0.7",
 	"description": "Generate predictable and unique identifiers composed of adjectives and animal names",
 	"main": "dist/index.js",
@@ -31,7 +31,7 @@
 		"uuid",
 		"vanity"
 	],
-	"author": "Bryan Lee",
+	"author": "teleporthq",
 	"license": "ISC",
 	"bugs": {
 		"url": "https://github.com/bryanmylee/zoo-ids/issues"
