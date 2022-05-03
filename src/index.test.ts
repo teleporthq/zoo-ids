@@ -190,7 +190,7 @@ test('multi-word adjective', () => {
 		delimiter: ' ',
 	});
 	// Assert
-	expect(result).toSatisfy((r) => r.split(' ').length == 4);
+	expect(result).toSatisfy((r) => r.split(' ').length == 3);
 });
 
 test('delimiter does not affect id generation', () => {
