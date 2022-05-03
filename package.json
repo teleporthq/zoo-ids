@@ -1,6 +1,6 @@
 {
 	"name": "@teleporthq/zoo-ids",
-	"version": "2.0.7",
+	"version": "2.0.8",
 	"description": "Generate predictable and unique identifiers composed of adjectives and animal names",
 	"main": "dist/index.js",
 	"module": "dist/index.es.js",
